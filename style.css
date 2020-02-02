@@ -62,3 +62,9 @@
   .header {
       padding-top: 40px;
   }
+
+  img {
+      width: 100%;
+      height: auto;
+      max-width: 750px;
+  }
